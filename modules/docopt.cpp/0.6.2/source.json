@@ -1,0 +1,6 @@
+{
+    "integrity": "sha256-sgqnvXFJ5ZLYIdXBRsGWUvUeMLnVi5+2ytlzc/PoUOY=",
+    "patch_strip": 0,
+    "patches": {},
+    "url": "https://github.com/ecsact-dev/docopt.cpp/releases/download/ecsact-bzlmod-0.6.2/docopt.cpp-ecsact-bzlmod-0.6.2.tar.gz"
+}
