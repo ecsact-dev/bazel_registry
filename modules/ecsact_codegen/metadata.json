@@ -2,7 +2,7 @@
     "homepage": "",
     "maintainers": [],
     "repository": [
-        "github:/ecsact-dev"
+        "github:ecsact-dev/ecsact_codegen"
     ],
     "versions": [
         "0.0.3"
