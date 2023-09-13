@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-Gr63VODz0fDuhOW4suocH47Mgpc5MtKLbQA7dOEQ4PI=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "magic_enum-d705e50884d9647ddff3fc1b08d96c9cd4ce530a",
+    "url": "https://github.com/Neargye/magic_enum/archive/d705e50884d9647ddff3fc1b08d96c9cd4ce530a.tar.gz"
+}
