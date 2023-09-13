@@ -1,0 +1,6 @@
+{
+    "integrity": "sha256-TcuXjKZsrjdjhrjQL2b/mz3Si7O9xV8nnB3VQuOWGvQ=",
+    "patch_strip": 0,
+    "patches": {},
+    "url": "https://github.com/ecsact-dev/ecsact_runtime/releases/download/0.4.0/ecsact_runtime-0.4.0.tar.gz"
+}
