@@ -1,0 +1,23 @@
+name: Notify Bzlmod Archive
+on:
+  repository_dispatch:
+    types: [notify-bzlmod-archive]
+jobs:
+  create-pr:
+    name: add ${{ github.event.client_payload.repo }} ${{ github.event.client_payload.tag_name }}
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ecsact-dev/bazel_registry
+      - run: bzlreg add-module "${{ github.event.client_payload.archive }}"
+      - name: create pull request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: 'chore: add ${{ github.event.client_payload.repo }} ${{ github.event.client_payload.tag_name }}'
+          title: 'chore: add ${{ github.event.client_payload.repo }} ${{ github.event.client_payload.tag_name }}'
+          body: ''
+          branch: 'add-${{ github.event.client_payload.repo }}-${{ github.event.client_payload.tag_name }}'
