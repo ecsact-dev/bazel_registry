@@ -5,7 +5,8 @@
         "github:/ecsact-dev"
     ],
     "versions": [
-        "0.4.0"
+        "0.4.0",
+        "0.4.1"
     ],
     "yanked_versions": {}
 }
