@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-6MmuRQZeSnsYi9pEFWhU+UwVGfeF1i7R0VbhRet9yiw=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/entt/releases/download/bzlmod-entt-v3.12.2/bzlmod-entt-v3.12.2.tar.gz"
+}
