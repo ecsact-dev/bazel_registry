@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-kzkVhdXkJ9X4IutOeA4Ymzj43QpZgBSeyX3vwnlCeRo=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_lang_cpp/releases/download/0.4.0/ecsact_lang_cpp-0.4.0.tar.gz"
+}
