@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-Z1uNm6pVqJGwXQQ9YwD82rDyfJamngsGyqImkKZE/c4=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_codegen/releases/download/0.2.0/ecsact_codegen-0.2.0.tar.gz"
+}
