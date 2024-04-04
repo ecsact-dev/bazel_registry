@@ -23,6 +23,6 @@ jobs:
           body: ''
           branch: 'add-${{ github.event.client_payload.repo }}-${{ github.event.client_payload.tag_name }}'
       - name: enable automerge
-        run: gh pr merge --merge --auto "1"
+        run: gh pr merge --auto
         env:
           GH_TOKEN: ${{ github.token }}
