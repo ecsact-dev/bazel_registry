@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-Paq+mFMEv6GT4i8Lrh0qmpwmBNScCTH+1V4ihrzgps0=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_cli/releases/download/0.3.5/ecsact_cli-0.3.5.tar.gz"
+}
