@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-hDa/WIFd5OEd3PvCp9UOgzvronBfNhAnBRSTlUGe7z0=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_runtime/releases/download/0.6.3/ecsact_runtime-0.6.3.tar.gz"
+}
