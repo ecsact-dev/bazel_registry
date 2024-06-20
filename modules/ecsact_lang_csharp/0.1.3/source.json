@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-GB9ab4d4oiY3w3hKjE6XWAasB/v5WJ4jQwn1tEdJYNk=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_lang_csharp/releases/download/0.1.3/ecsact_lang_csharp-0.1.3.tar.gz"
+}
