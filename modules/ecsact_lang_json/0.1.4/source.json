@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-xG4+mBIw5fhGRpI4n93p6zqOt5wxKLgZn7Rp/302Hwg=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_lang_json/releases/download/0.1.4/ecsact_lang_json-0.1.4.tar.gz"
+}
