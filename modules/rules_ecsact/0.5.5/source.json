@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-qr3LKNusFunCyMNziUL87ZQOWxn+80fCgO9pf15nWDM=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/rules_ecsact/releases/download/0.5.5/rules_ecsact-0.5.5.tar.gz"
+}
