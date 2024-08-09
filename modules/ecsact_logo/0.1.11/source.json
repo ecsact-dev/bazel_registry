@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-DjaXFTcvYrgEcM+KcOrgccDkp7zxbBapBAQDv62/91A=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/logo/releases/download/0.1.11/ecsact_logo.tar.gz"
+}
