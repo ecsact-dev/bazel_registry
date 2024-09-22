@@ -1,9 +1,11 @@
 {
   "integrity": "sha256-3iGZ+CM+pe2dTb6GqOr4jXVN7NKOKFVDKaeym02VJ3M=",
   "url": "https://github.com/foonathan/lexy/releases/download/v2022.05.1/lexy-src.zip",
+  "patches": {
+    "input-location-column-typo.patch": "sha256-USWGiHRa29lFl9s9z6KfdCDVemIZXiNBun7f79jb4Go="
+  },
   "overlay": {
-    "BUILD.bazel": "",
-    "MODULE.bazel": ""
+    "BUILD.bazel": "sha256-ugDs63HjC/20lsOdn6U1p67LoiOsXHDoy4SHZj+aBdE=",
+    "MODULE.bazel": "sha256-2+g6ThR/hbrJncyVW2xbNPRT+n02UoZvJsu6jKjvbsc="
   }
 }
-
