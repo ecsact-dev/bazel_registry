@@ -1,0 +1,9 @@
+{
+  "integrity": "sha256-3iGZ+CM+pe2dTb6GqOr4jXVN7NKOKFVDKaeym02VJ3M=",
+  "url": "https://github.com/foonathan/lexy/releases/download/v2022.05.1/lexy-src.zip",
+  "overlay": {
+    "BUILD.bazel": "",
+    "MODULE.bazel": ""
+  }
+}
+
