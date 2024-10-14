@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-tSgpooTwWxxvA1dBZ+DA68Rje5SLffjV4BfCZq1BiDE=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_interpret/releases/download/0.6.5/ecsact_interpret-0.6.5.tar.gz"
+}
