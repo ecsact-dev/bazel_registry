@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-40RzwRVQ8SzSt9aUUtORoAF1wvFjIwML79a7ux6KWjU=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_lang_json/releases/download/0.1.6/ecsact_lang_json-0.1.6.tar.gz"
+}
