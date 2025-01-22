@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-BaHvXWt7p5udDj0V75yrPRiqZhfK888A3HV0XPba7QU=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_parse/releases/download/0.5.5/ecsact_parse-0.5.5.tar.gz"
+}
