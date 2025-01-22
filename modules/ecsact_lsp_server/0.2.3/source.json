@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-mgp6IDXMAmeqJQEInCkZhJw1c2f2odGxz6OJfJFSs9c=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_lsp_server/releases/download/0.2.3/ecsact_lsp_server-0.2.3.tar.gz"
+}
