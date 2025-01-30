@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-8hrpT+OnqUQmGtEpLIRUPwyjKDiuhdKl4wb1Tjjh+2Y=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_runtime/releases/download/0.8.1/ecsact_runtime-0.8.1.tar.gz"
+}
