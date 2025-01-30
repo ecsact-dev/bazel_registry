@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-y2cOHGqaJ3P0Jd5J2G4m5GNJ62AGiAK33qr8y1skDrc=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_rt_entt/releases/download/0.3.18/ecsact_rt_entt-0.3.18.tar.gz"
+}
