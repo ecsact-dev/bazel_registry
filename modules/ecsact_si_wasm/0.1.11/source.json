@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-kyHiaDfI38+CO075YNNXUzN5sA9Oap7CJpHjpbXsgBg=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_si_wasm/releases/download/0.1.11/ecsact_si_wasm-0.1.11.tar.gz"
+}
