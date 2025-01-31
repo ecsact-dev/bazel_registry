@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-srterjA0BgCWWrlEh2rQzoLfXioPmwQF7/FH6H0b23U=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_si_wasmer/releases/download/0.2.0/ecsact_si_wasmer-0.2.0.tar.gz"
+}
