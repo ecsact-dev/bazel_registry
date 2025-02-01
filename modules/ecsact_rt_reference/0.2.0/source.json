@@ -1,0 +1,7 @@
+{
+    "integrity": "sha256-IR8Se8LUCxKqQyYbTnUS8aMUq9iX1hrbiSyXUt0cv3k=",
+    "patch_strip": 0,
+    "patches": {},
+    "strip_prefix": "",
+    "url": "https://github.com/ecsact-dev/ecsact_rt_reference/releases/download/0.2.0/ecsact_rt_reference-0.2.0.tar.gz"
+}
